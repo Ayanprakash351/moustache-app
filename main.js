@@ -1,7 +1,7 @@
 mousX = 0;
 mousY = 0;
 function preload(){
-
+   mousthache = loadImage"https://i.postimg.cc/x11Gp8VR/moustache.png"
 }
 function setup()
 {
